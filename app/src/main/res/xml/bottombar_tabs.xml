@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <tabs>
+        <tab
+            id="@+id/tab_live"
+            icon="@drawable/ic_live"
+            title="Stream" />
+        <tab
+            id="@+id/tab_archive"
+            icon="@drawable/ic_archive"
+            title="Archives" />
+        <tab
+            id="@+id/tab_articles"
+            icon="@drawable/ic_articles"
+            title="Articles" />
+        <tab
+            id="@+id/tab_calendar"
+            icon="@drawable/ic_calendar"
+            title="Calendar" />
+        <tab
+            id="@+id/tab_user"
+            icon="@drawable/ic_user"
+            title="Account" />
+    </tabs>
